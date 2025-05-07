@@ -55,4 +55,4 @@ This project extends a basic Binary Search Tree (BST) by implementing a **delete
 1. A BST is created with initial nodes.
 2. The user selects a node to delete.
 3. The program determines the correct deletion strategy.
-4. The tree structure is updated and printed to show the result.
+4. The tree structure is updated and printed to show the resultt.
