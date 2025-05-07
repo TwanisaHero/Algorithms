@@ -1,6 +1,6 @@
 # 📘 AVL Tree – Insertions with Multiple Rotations
 
-**👤 Author:** *[Your Name]*  
+**👤 Author:** *Antwan Taylor*  
 **📅 Due Date:** *March 7, 2025 (Wednesday @ 2:00 PM)*  
 
 ---
