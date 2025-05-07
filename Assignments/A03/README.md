@@ -3,12 +3,10 @@
 **Author:** Antwan Taylor  
 **Date:** February 2025  
 
-
-
-## 📝 Description  
+## Description  
 This project extends a basic Binary Search Tree (BST) by implementing a **delete method**. Deletion in a BST involves multiple cases that must be handled carefully to preserve tree properties:
 
-### 📌 Deletion Cases
+### Deletion Cases
 - **Leaf Node (no children):**  
   Simply remove the node.
   
@@ -18,29 +16,23 @@ This project extends a basic Binary Search Tree (BST) by implementing a **delete
 - **Two Children:**  
   Replace the node with the **in-order successor** (smallest node in the right subtree) or **in-order predecessor** (largest node in the left subtree).
 
->⚠️ **Important:** When replacing with the in-order successor or predecessor, ensure the BST structure remains valid.
+> Important: When replacing with the in-order successor or predecessor, ensure the BST structure remains valid.
 
-### 🔄 Edge Cases
+### Edge Cases
 - Deleting the **root node**.
 - Deleting from a **tree with only one node**.
 
-
-
-## 📁 Files
+## Files
 
 | # | File Name     | Description                                           |
 |:-:|---------------|-------------------------------------------------------|
 | 1 | [`main.cpp`](./main.cpp) | Implements the BST delete method and related logic.  |
 
-
-
-## 📚 Prerequisites
+## Prerequisites
 - Basic knowledge of **Binary Search Trees (BST)**.
 - A working **C++ compiler** (e.g., `g++`).
 
-
-
-## ⚙️ Instructions
+## Instructions
 
 | Step | Action                  | Command                                |
 |:----:|-------------------------|----------------------------------------|
@@ -48,9 +40,7 @@ This project extends a basic Binary Search Tree (BST) by implementing a **delete
 | 2    | Run the program         | `./bst_delete`                         |
 | 3    | Test deletion cases     | Provide input cases and observe output |
 
-
-
-## 🔄 Program Flow
+## Program Flow
 
 1. A BST is created with initial nodes.
 2. The user selects a node to delete.
