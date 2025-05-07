@@ -1,7 +1,7 @@
 # A03 – Binary Search Tree: Delete Method
 
-**Author:** Antwan Taylor  
-**Date:** February 2025  
+**👤 Author:** *Antwan Taylor*  
+**📅 Date:** *February 2025*
 
 ---
 
@@ -28,9 +28,9 @@ This project extends a basic Binary Search Tree (BST) by implementing a **delete
 
 ## 📁 Files
 
-| # | File Name     | Description                                           |
-|:-:|---------------|-------------------------------------------------------|
-| 1 | [`main.cpp`](./main.cpp) | Implements the BST delete method and related logic.  |
+| # | File Name                    | Description                                           |
+|:-:|------------------------------|-------------------------------------------------------|
+| 1 | [`main.cpp`](./main.cpp)     | Implements the BST delete method and related logic.  |
 
 ---
 
