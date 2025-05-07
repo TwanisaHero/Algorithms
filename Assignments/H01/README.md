@@ -1,0 +1,1 @@
+<img src="set_1_step_2.png" width="200">
