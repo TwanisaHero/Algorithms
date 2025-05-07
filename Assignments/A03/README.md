@@ -54,11 +54,7 @@ This project adds a **delete method** to a Binary Search Tree (BST), expanding o
       5    15
     ```
 
-### Additional Considerations
-- **Deleting the root node**
-- **Deleting from an empty tree**
-- **Updating parent pointers after replacement**
-- **Handling duplicate values (if allowed by your tree)**
+
 
 ## Files
 
