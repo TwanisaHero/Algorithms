@@ -1,5 +1,7 @@
 # 📂 Assignments Overview
 
+This directory contains all coursework assignments for the semester. Each task focuses on a key data structure or algorithm concept including binary trees, AVL trees, red-black trees, and hashing. Use the table below to navigate to each assignment and review its goals.
+
 | #  | 📁 Folder | 📝 Assignment Description |
 | :-: | :------------------------------- | :-------------------------------------------- |
 | 1  | [A03](./Assignments/A03/)        | **Binary Search Tree (BST) – Delete Method**<br>Implement deletion in a BST, handling all cases (leaf, one child, two children). |
